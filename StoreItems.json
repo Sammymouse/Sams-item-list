@@ -17910,6 +17910,348 @@
 		"category": "Misc",
 		"defname": "WaterproofConduit"
 	},
+	{
+		"abr": "waveemmiter",
+		"price": 2442,
+		"category": "Security",
+		"defname": "Turret_WaveEmitter"
+	},
+	{
+		"abr": "weaponrack",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Shelf_WeaponRack"
+	},
+	{
+		"abr": "weirdmilk",
+		"price": 5,
+		"category": "Animal products",
+		"defname": "GR_WeirdMilk"
+	},
+	{
+		"abr": "wheat",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "Rawwheat"
+	},
+	{
+		"abr": "whip",
+		"price": 203,
+		"category": "Ranged weapons",
+		"defname": "VWE_Tool_Whip"
+	},
+	{
+		"abr": "whitedevilstrand",
+		"price": 9,
+		"category": "Dyed Devilstrand",
+		"defname": "WhiteDevilstrand"
+	},
+	{
+		"abr": "whitehyperweave",
+		"price": 15,
+		"category": "Dyed Hyperweave",
+		"defname": "WhiteHyperweave"
+	},
+	{
+		"abr": "whitesynthread",
+		"price": 7,
+		"category": "Dyed Synthread",
+		"defname": "WhiteSynthread"
+	},
+	{
+		"abr": "wickerman",
+		"price": 178,
+		"category": "Misc",
+		"defname": "VME_WickerMan"
+	},
+	{
+		"abr": "wildboar",
+		"price": 333,
+		"category": "Animals",
+		"defname": "WildBoar"
+	},
+	{
+		"abr": "windturbine",
+		"price": 442,
+		"category": "Misc",
+		"defname": "WindTurbine"
+	},
+	{
+		"abr": "wodentable",
+		"price": 172,
+		"category": "Furniture",
+		"defname": "WODENTable"
+	},
+	{
+		"abr": "wolfmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Wolf_Timber"
+	},
+	{
+		"abr": "wolfpelt",
+		"price": 158,
+		"category": "Raw resources",
+		"defname": "GR_WolfPelt"
+	},
+	{
+		"abr": "wolfrug",
+		"price": 161,
+		"category": "Furniture",
+		"defname": "GR_WolfRug"
+	},
+	{
+		"abr": "wolfalope",
+		"price": 617,
+		"category": "Animals",
+		"defname": "GR_Wolfalope"
+	},
+	{
+		"abr": "wolfbear",
+		"price": 617,
+		"category": "Animals",
+		"defname": "GR_Wolfbear"
+	},
+	{
+		"abr": "wolfbeaver",
+		"price": 458,
+		"category": "Animals",
+		"defname": "GR_Wolfbeaver"
+	},
+	{
+		"abr": "wolfcat",
+		"price": 617,
+		"category": "Animals",
+		"defname": "GR_Wolfcat"
+	},
+	{
+		"abr": "wolfchicken",
+		"price": 617,
+		"category": "Animals",
+		"defname": "GR_Wolfchicken"
+	},
+	{
+		"abr": "wolfchickenegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_WolfchickenEggFertilized"
+	},
+	{
+		"abr": "wolfchickenegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_WolfchickenEggUnfertilized"
+	},
+	{
+		"abr": "wolffalo",
+		"price": 617,
+		"category": "Animals",
+		"defname": "GR_Wolffalo"
+	},
+	{
+		"abr": "wolfhorse",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "GR_Wolfhorse"
+	},
+	{
+		"abr": "wolfscarab",
+		"price": 667,
+		"category": "Animals",
+		"defname": "GR_Wolfscarab"
+	},
+	{
+		"abr": "wolfskin",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Wolf"
+	},
+	{
+		"abr": "wolfsnake",
+		"price": 750,
+		"category": "Animals",
+		"defname": "GR_Wolfsnake"
+	},
+	{
+		"abr": "wolverineaxe",
+		"price": 383,
+		"category": "Melee weapons",
+		"defname": "Wolv_Axe"
+	},
+	{
+		"abr": "wolverinekatana",
+		"price": 383,
+		"category": "Melee weapons",
+		"defname": "Wolv_Katana"
+	},
+	{
+		"abr": "wolverinemace",
+		"price": 383,
+		"category": "Melee weapons",
+		"defname": "Wolv_Mace"
+	},
+	{
+		"abr": "wolverineshotgun",
+		"price": 758,
+		"category": "Ranged weapons",
+		"defname": "Gun_WolvShotgun"
+	},
+	{
+		"abr": "wolverinesword",
+		"price": 383,
+		"category": "Melee weapons",
+		"defname": "Wolv_Sword"
+	},
+	{
+		"abr": "wood",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "WoodLog"
+	},
+	{
+		"abr": "wood-firedgenerator",
+		"price": 442,
+		"category": "Misc",
+		"defname": "WoodFiredGenerator"
+	},
+	{
+		"abr": "woolcloth",
+		"price": 3,
+		"category": "Textiles",
+		"defname": "WoolCloth"
+	},
+	{
+		"abr": "woolloom",
+		"price": 148,
+		"category": "Production",
+		"defname": "BenchWoolLoom"
+	},
+	{
+		"abr": "wort",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "Wort"
+	},
+	{
+		"abr": "wrench",
+		"price": 277,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Wrench"
+	},
+	{
+		"abr": "xianjh-7(flounder)",
+		"price": 19142,
+		"category": "Buildings",
+		"defname": "JH7a"
+	},
+	{
+		"abr": "yak",
+		"price": 533,
+		"category": "Animals",
+		"defname": "Yak"
+	},
+	{
+		"abr": "yakbeef",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Yak"
+	},
+	{
+		"abr": "yakovlevyak-41freestyle",
+		"price": 20283,
+		"category": "Buildings",
+		"defname": "yak41a"
+	},
+	{
+		"abr": "yakovlevyak-9b",
+		"price": 4817,
+		"category": "Buildings",
+		"defname": "YAK9Ba"
+	},
+	{
+		"abr": "yayo",
+		"price": 35,
+		"category": "Drugs",
+		"defname": "Yayo"
+	},
+	{
+		"abr": "yellowcloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "YellowCloth"
+	},
+	{
+		"abr": "yellowdevilstrand",
+		"price": 9,
+		"category": "Dyed Devilstrand",
+		"defname": "YellowDevilstrand"
+	},
+	{
+		"abr": "yellowhyperweave",
+		"price": 15,
+		"category": "Dyed Hyperweave",
+		"defname": "YellowHyperweave"
+	},
+	{
+		"abr": "yellowsynthread",
+		"price": 7,
+		"category": "Dyed Synthread",
+		"defname": "YellowSynthread"
+	},
+	{
+		"abr": "yogurt",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "yogurt"
+	},
+	{
+		"abr": "yorkshireterrier",
+		"price": 167,
+		"category": "Animals",
+		"defname": "YorkshireTerrier"
+	},
+	{
+		"abr": "yorkshireterriermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_YorkshireTerrier"
+	},
+	{
+		"abr": "yutyrannus",
+		"price": 4500,
+		"category": "Animals",
+		"defname": "Yutyrannus"
+	},
+	{
+		"abr": "yutyrannusegg(fert.)",
+		"price": 200,
+		"category": "Eggs (fert.)",
+		"defname": "EggYutyrannusFertilized"
+	},
+	{
+		"abr": "yutyrannusmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Yutyrannus"
+	},
+	{
+		"abr": "zeushammer",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "zoologyimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "AnimalMindImplant"
+	},
+	{
+		"abr": "zweihander",
+		"price": 650,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Zweihander"
+	}
 	],
-	"total": 3042
+	"total": 3099
 }
